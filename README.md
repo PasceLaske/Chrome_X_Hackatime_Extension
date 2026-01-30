@@ -27,7 +27,8 @@ This allows you to see your GitHub coding activity alongside your editor activit
 3. Open Chrome and go to `chrome://extensions/`  
 4. Enable **Developer mode** (toggle in the top-right corner)  
 5. Click **Load unpacked** and select the extracted folder  
-6. Pin the extension in Chrome and click on the **cookie icon**  
+6. Pin the extension in Chrome and click on the **cookie icon**
+   <img width="416" height="219" alt="Screenshot 2026-01-30 155525" src="https://github.com/user-attachments/assets/2a88df6b-40f0-45d4-8eb0-c5e572e257d5" />
 7. Enter your **API key** and **project name** in the fields  
 8. Open GitHub and enjoy tracking your activity  
 
