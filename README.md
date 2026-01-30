@@ -31,7 +31,8 @@ This allows you to see your GitHub coding activity alongside your editor activit
 <img width="416" height="219" alt="Screenshot 2026-01-30 155525" src="https://github.com/user-attachments/assets/2a88df6b-40f0-45d4-8eb0-c5e572e257d5" />
 
 7. Enter your **API key** and **project name** in the fields  
-8. Open GitHub and enjoy tracking your activity  
+8. Open GitHub and enjoy tracking your activity
+   > **Error Tip:** If your GitHub project is not detected, first open [https://github.com](https://github.com) in Chrome, then navigate to your project.
 
 <img width="351" height="283" alt="Screenshot 2026-01-30 154517" src="https://github.com/user-attachments/assets/2b797ce8-4818-46d5-81e7-24e3f52db448" />
 
